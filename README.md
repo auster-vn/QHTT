@@ -62,4 +62,3 @@ Chương trình này giúp giải bài toán Quy Hoạch Tuyến Tính (Linear P
 
 *Chương trình được viết bằng Python, sử dụng các thư viện mở PuLP và Rich, kết hợp Matplotlib để vẽ đồ thị.*
 
-# QHTT
